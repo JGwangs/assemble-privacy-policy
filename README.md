@@ -116,6 +116,6 @@
 
 📱 **Assemble** - P들을 위한 모임어플
 🔗 **GitHub**: https://github.com/JGwangs/assemble-privacy-policy
-📧 **문의**: fyattoj@gmail.com
+📧 **문의**: assemble.service@gmail.com
 
 *본 방침은 관련 법령 및 지침에 따라 작성되었습니다.*
